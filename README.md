@@ -1,9 +1,10 @@
 # Omarchy-Okonomi
 ---  
-##-=[ NOTE ]=-
+## -=[ NOTE ]=-  
 This is no longer under active development as of Omarchy 4+.  
-The features I was wanting and the reason for this repo are now part of Omarchy config options.
-I will archive this for my own history and development.
+The features I was wanting and the reason for this repo are now part of Omarchy config options.  
+I will archive this for my own history and development.  
+
 ---  
 
 ### Purpose
