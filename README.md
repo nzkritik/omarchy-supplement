@@ -1,4 +1,10 @@
 # Omarchy-Okonomi
+---  
+##-=[ NOTE ]=-
+This is no longer under active development as of Omarchy 4+.  
+The features I was wanting and the reason for this repo are now part of Omarchy config options.
+I will archive this for my own history and development.
+---  
 
 ### Purpose
 The purpose of this repo is to add setup choices on top of Omarchy to fit your needs. Your choices should be applied to a fresh, upgraded base install of Omarchy.
